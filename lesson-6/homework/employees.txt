@@ -1,0 +1,3 @@
+1001, John Doe, Software Engineer, 75000
+1002, Behruz, Designer, 50000
+1003, Person, Backend dev, 100000
